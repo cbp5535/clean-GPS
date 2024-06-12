@@ -9,6 +9,11 @@ The code is not tailored for maximum efficiency, however, it runs in 20 minutes 
 
 **Versioning:** This code is intended to be run in Python 3.9 using dependencies for ArcGIS (2.3.0.3). It relies heavily on Arcpy (3.1.2) and Pandas (1.4.4). 
 
-**Authorship:** This code was written by Colby Parkinson based on a procedure by Dr. Will Rice with supervision from Dr. Bing Pan. Below is the published paper that provided the most helpful information for creating this code and informing the overall procedure:
+**Authorship:** This code was written by Colby Parkinson based on a procedure by Dr. Will Rice with supervision from Dr. Bing Pan. If you use the code or publish analysis that you performed informed by the code or procedure provided in this GitHub, please cite:
+
+Parkinson, C., Rice, W. L., & Pan, B. (2024). Standardizing the Procedure for Cleaning GPS Device Data for Recreation and Tourism Research Travel and Tourism Research Association 54th Annual International Conference, Burlington, VT. 
+
+
+Below is the published paper that provided the most helpful information for creating this code and informing the overall procedure:
 
 Hallo, J. C., Beeco, J. A., Goetcheus, C., McGee, J., McGehee, N. G., & Norman, W. C. (2012). GPS as a Method for Assessing Spatial and Temporal Use Distributions of Nature-Based Tourists. Journal of Travel Research, 51(5), 591-606. https://doi.org/10.1177/0047287511431325 
