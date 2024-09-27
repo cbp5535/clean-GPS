@@ -11,7 +11,7 @@ The code is not tailored for maximum efficiency, however, it runs in 20 minutes 
 
 **Authorship:** This code was written by Colby Parkinson based on a procedure by Dr. Will Rice with supervision from Dr. Bing Pan. If you use the code or publish analysis that you performed informed by the code or procedure provided in this GitHub, please cite:
 
-Parkinson, C., Rice, W. L., & Pan, B. (2024). Standardizing the Procedure for Cleaning GPS Device Data for Recreation and Tourism Research Travel and Tourism Research Association 54th Annual International Conference, Burlington, VT. 
+Parkinson, C., Rice, W. L., & Pan, B. (2024). Standardizing the Procedure for Cleaning GPS Device Data for Recreation and Tourism Research Travel and Tourism Research Association 54th Annual International Conference, Burlington, VT. https://doi.org/10.5281/zenodo.13850813
 
 
 Below is the published paper that provided the most helpful information for creating this code and informing the overall procedure:
